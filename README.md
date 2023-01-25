@@ -1,15 +1,16 @@
 <h1 align="center">Hola 👋, soy Jeisson Fernando Montenegro Rosero</h1>
 <h3 align="center">Enfocado en el desarrollado Web con diferentes tecnologías ya sea en BACK-END y FRONT-END, con ganas de cada día tener mas conocimiento y así poder aportar lo mejor de mi a la empresa</h3>
 
-**PROYECTOS REALIZADOS** 
-**JAVASCRIPT**
+**PROYECTOS REALIZADOS**
+
+**🚀 JAVASCRIPT 🚀**
 - Proyecto TODO-LIST (JS) [TODO-LIST](https://loquacious-crisp-eaa873.netlify.app/)
 - Proyecto COUNTRY-CONSUME-LIST (JS) [COUNTRY-CONSUME-LIST](https://dynamic-monstera-02374c.netlify.app/)
 
-**PYTHON + NODEJS**
+**🚀 PYTHON + NODEJS 🚀**
 - Creación de Chatbot controlado desde una página web [CHATBOT-WEB](https://github.com/JeissonFMR/Chatbot-web)
 
-**NODEJS**
+**🚀 NODEJS 🚀**
 - Creación de WEB SERVICES
 
 
