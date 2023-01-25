@@ -18,7 +18,7 @@
 - Creación de WEB SERVICES
 
 **🚀 BASH 🚀**
-- Creación de scrip para la automatización de usuarios Linux [BASH-AUTOMATIZAR-USUARIOS](https://github.com/JeissonFMR/Bash-automatizar-usuarios)
+- Creación de script para la automatización de usuarios Linux [BASH-AUTOMATIZAR-USUARIOS](https://github.com/JeissonFMR/Bash-automatizar-usuarios)
 
 - 🌱 Estoy aprendiendo **ReactJs**
 
