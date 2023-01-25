@@ -10,9 +10,15 @@
 **🚀 PYTHON + NODEJS 🚀**
 - Creación de Chatbot controlado desde una página web [CHATBOT-WEB](https://github.com/JeissonFMR/Chatbot-web)
 
+**🚀 PYTHON 🚀**
+- Creación de script para la automatización de archivos y orden en carpetas [AUTOMATIZATION-FOLDER](https://github.com/JeissonFMR/Automatization-Folders)
+- Creación de CRUD con Django basado en clases [DJANGO-CLASES](https://github.com/JeissonFMR/CRUD-DJANGO-CLASES)
+
 **🚀 NODEJS 🚀**
 - Creación de WEB SERVICES
 
+**🚀 BASH 🚀**
+- Creación de scrip para la automatización de usuarios Linux [BASH-AUTOMATIZAR-USUARIOS](https://github.com/JeissonFMR/Bash-automatizar-usuarios)
 
 - 🌱 Estoy aprendiendo **ReactJs**
 
