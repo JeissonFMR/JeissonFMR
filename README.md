@@ -1,31 +1,36 @@
-<h1 align="center">Hola 👋, soy Jeisson Fernando Montenegro Rosero</h1>
-<h3 align="center">Enfocado y apasionado por el desarrollo web, me especializo en el desarrollo tanto en BACK-END como en FRONT-END. Siempre busco aprender nuevas habilidades y tecnologías para mejorar mis capacidades y aportar el máximo valor a cualquier proyecto en el que participe. Me considero un colaborador comprometido y apasionado por el éxito de la empresa, y siempre estoy dispuesto a trabajar en equipo para lograr los objetivos de la organización."</h3>
+<h1 align="center">¡Hola! 👋 Soy Jeisson Fernando Montenegro Rosero</h1>
+<h3 align="center">Enfocado y apasionado por el desarrollo web, me especializo en el desarrollo tanto en BACK-END como en FRONT-END. Siempre estoy en busca de aprender nuevas habilidades y tecnologías para mejorar mis capacidades y aportar el máximo valor a cualquier proyecto en el que participe. Me considero un colaborador comprometido y apasionado por el éxito de la empresa, y siempre estoy dispuesto a trabajar en equipo para lograr los objetivos de la organización.</h3>
 
-**PROYECTOS REALIZADOS**
+<h2 align="center">Proyectos destacados</h2>
 
-**🚀 JAVASCRIPT 🚀**
-- Proyecto TODO-LIST (JS) [TODO-LIST](https://loquacious-crisp-eaa873.netlify.app/)
-- Proyecto COUNTRY-CONSUME-LIST (JS) [COUNTRY-CONSUME-LIST](https://dynamic-monstera-02374c.netlify.app/)
+**🚀 JavaScript 🚀**
+- Proyecto TODO-LIST [Ver proyecto](https://loquacious-crisp-eaa873.netlify.app/)
+- Proyecto COUNTRY-CONSUME-LIST [Ver proyecto](https://dynamic-monstera-02374c.netlify.app/)
 
-**🚀 PYTHON + NODEJS 🚀**
-- Creación de Chatbot controlado desde una página web [CHATBOT-WEB](https://github.com/JeissonFMR/Chatbot-web)
+**🚀 Python + Node.js 🚀**
+- Chatbot controlado desde una página web [Ver proyecto](https://github.com/JeissonFMR/Chatbot-web)
 
-**🚀 PYTHON 🚀**
-- Creación de script para la automatización de archivos y orden en carpetas [AUTOMATIZATION-FOLDER](https://github.com/JeissonFMR/Automatization-Folders)
-- Creación de CRUD con Django basado en clases [DJANGO-CLASES](https://github.com/JeissonFMR/CRUD-DJANGO-CLASES)
+**🚀 Python 🚀**
+- Script para automatización de archivos y orden en carpetas [Ver proyecto](https://github.com/JeissonFMR/Automatization-Folders)
+- CRUD con Django basado en clases [Ver proyecto](https://github.com/JeissonFMR/CRUD-DJANGO-CLASES)
 
-**🚀 NODEJS 🚀**
-- API modelo de ventas - productos y usuarios CRUD [API-VENTAS](https://github.com/JeissonFMR/API-NodeJS-ventas)
-- API TIPO SPOTIFY [API-SPOTIFY](https://github.com/JeissonFMR/API-REPRODUCTOR-MUSICA)
-- API ADMINISTRADOR [ADMINPRO](https://github.com/JeissonFMR/angular-adminPro)
+**🚀 Node.js 🚀**
+- API modelo de ventas - productos y usuarios CRUD [Ver proyecto](https://github.com/JeissonFMR/API-NodeJS-ventas)
+- API tipo Spotify [Ver proyecto](https://github.com/JeissonFMR/API-REPRODUCTOR-MUSICA)
+- Administrador de API [Ver proyecto](https://github.com/JeissonFMR/angular-adminPro)
 
-**🚀 BASH 🚀**
-- Creación de script para la automatización de usuarios Linux [BASH-AUTOMATIZAR-USUARIOS](https://github.com/JeissonFMR/Bash-automatizar-usuarios)
+**🚀 Angular 🚀**
+- Admin pro [Ver proyecto](https://github.com/JeissonFMR/angular-adminPro)
+- Interfaz Trello [Ver proyecto](https://github.com/JeissonFMR/Clon-de-Trello)
+- Aplicación heroes [Ver proyecto](https://github.com/JeissonFMR/App-heroes-Angular)
+- Empresa panela [Ver proyecto](https://github.com/JeissonFMR/FRONT-TRAPICHE)
 
+**🚀 Bash 🚀**
+- Script para automatización de usuarios en Linux [Ver proyecto](https://github.com/JeissonFMR/Bash-automatizar-usuarios)
 
-**CONTACTO**
-- 📫 Cómo contactarme **soyjeison2017@gmail.com**
+<h2 align="center">Contacto</h2>
+<p align="center">Puedes contactarme por <a href="mailto:soyjeison2017@gmail.com">correo electrónico</a></p>
 
+<h2 align="center">Lenguajes y herramientas</h2>
+<p align="center"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff"></p>
 
-<h3 align="left">LENGUAJES Y HERRAMIENTAS</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
