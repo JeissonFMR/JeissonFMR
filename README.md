@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jeisson Fernando Montenegro Rosero</h1>
-<h3 align="center">Enfocado en el desarrollado Web con diferentes tecnologías ya sea en BACK-END y FRONT-END, con ganas de cada día tener mas conocimiento y así poder aportar lo mejor de mi a la empresa</h3>
+<h3 align="center">Enfocado y apasionado por el desarrollo web, me especializo en el desarrollo tanto en BACK-END como en FRONT-END. Siempre busco aprender nuevas habilidades y tecnologías para mejorar mis capacidades y aportar el máximo valor a cualquier proyecto en el que participe. Me considero un colaborador comprometido y apasionado por el éxito de la empresa, y siempre estoy dispuesto a trabajar en equipo para lograr los objetivos de la organización."</h3>
 
 **PROYECTOS REALIZADOS**
 
