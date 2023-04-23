@@ -15,12 +15,13 @@
 - Creación de CRUD con Django basado en clases [DJANGO-CLASES](https://github.com/JeissonFMR/CRUD-DJANGO-CLASES)
 
 **🚀 NODEJS 🚀**
-- Creación de WEB SERVICES
+- API modelo de ventas - productos y usuarios CRUD [API-VENTAS](https://github.com/JeissonFMR/API-NodeJS-ventas)
+- API TIPO SPOTIFY [API-SPOTIFY](https://github.com/JeissonFMR/API-REPRODUCTOR-MUSICA)
+- API ADMINISTRADOR [ADMINPRO](https://github.com/JeissonFMR/angular-adminPro)
 
 **🚀 BASH 🚀**
 - Creación de script para la automatización de usuarios Linux [BASH-AUTOMATIZAR-USUARIOS](https://github.com/JeissonFMR/Bash-automatizar-usuarios)
 
-- 🌱 Estoy aprendiendo **ReactJs**
 
 **CONTACTO**
 - 📫 Cómo contactarme **soyjeison2017@gmail.com**
